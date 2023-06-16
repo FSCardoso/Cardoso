@@ -1,2 +1,2 @@
-# Cardoso
-Python
+# Python
+Exercícios de Python
